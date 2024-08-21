@@ -4,11 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java          0 secs          █████████████▒░░░░░░░░░░░   53.56 %
-CassandraQL   0 secs          ████████░░░░░░░░░░░░░░░░░   32.65 %
-SQL           0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-Python        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Markdown      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
