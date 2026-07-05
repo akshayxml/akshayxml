@@ -13,8 +13,21 @@
   </a>
 </p>
 
-## Github Stats
-![](https://github-readme-stats-v2-three.vercel.app/api/top-langs/?username=akshayxml&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&hide=Jupyter%20Notebook%2Cobjective-c%2Cmakefile%2Cc%2Chtml%2Ccss%2Cscss&langs_count=6&exclude_repo=github-readme-stats-v2)
-
-## Gitfut Card
-[![My GitFut card](https://gitfut.com/akshayxml.png)](https://gitfut.com/akshayxml)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>Github Stats</h3>
+        <img src="https://github-readme-stats-v2-three.vercel.app/api/top-langs/?username=akshayxml&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&hide=Jupyter%20Notebook%2Cobjective-c%2Cmakefile%2Cc%2Chtml%2Ccss%2Cscss&langs_count=6&exclude_repo=github-readme-stats-v2" alt="Github Stats" width="75%" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>Gitfut Card</h3>
+        <a href="https://gitfut.com/akshayxml">
+          <img src="https://gitfut.com/akshayxml.png" alt="My GitFut card" width="50%" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
